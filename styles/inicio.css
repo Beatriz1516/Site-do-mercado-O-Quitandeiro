@@ -1,0 +1,14 @@
+.logo{
+    margin: 125px 550px 0 550px;
+}
+.iniciar{
+    padding: 30px 200px;
+    margin: 40px 360px;
+    font-size: x-large;
+    font-weight: bold;
+    font-family: 'inter';
+    border-radius: 15px;
+    background-color: #144A00;
+    color: #ffffff;
+    text-decoration: none;
+}
