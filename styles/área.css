@@ -1,9 +1,6 @@
-.logo{
-    margin: 125px 550px 0 550px;
-}
-.iniciar{
+.classeAtuação{
     padding: 30px 200px;
-    margin: 40px 360px;
+    margin: 20px 360px;
     font-size: x-large;
     font-weight: bold;
     font-family: 'arial';
@@ -11,4 +8,5 @@
     background-color: #144A00;
     color: #ffffff;
     text-decoration: none;
+    width: 600px;
 }
