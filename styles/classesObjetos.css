@@ -1,0 +1,39 @@
+.classesObjetos{
+    background-color: #ccc;
+    border: #888;
+    border-radius: 10px;
+    text-align: center;
+    font-size: xx-large;
+    font-family: arial;
+    font-weight: bold;
+    padding: 10px;
+    margin: 50px;
+    width: 300px;
+    height: 100px;
+}
+.classesObjetos2{
+    background-color: #ccc;
+    border: #888;
+    border-radius: 10px;
+    text-align: center;
+    font-size: xx-large;
+    font-family: arial;
+    font-weight: bold;
+    padding: 10px ;
+    margin: -110px 450px;
+    width: 300px;
+    height: 100px;
+}
+.classesObjetos3{
+    background-color: #ccc;
+    border: #888;
+    border-radius: 10px;
+    text-align: center;
+    font-size: xx-large;
+    font-family: arial;
+    font-weight: bold;
+    padding: 10px ;
+    margin: -110px 450px;
+    width: 300px;
+    height: 100px;
+}
