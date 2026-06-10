@@ -1,0 +1,55 @@
+
+.cabecalho{
+    background-color: #144A00;
+    color: #f4f4f4;
+    margin: 0px;
+}
+.titulo{
+    text-align: center;
+    font-size:45px;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between ;
+    align-items: center;
+    background-color: #144A00;
+    color: white;
+    padding: 10px 320px;
+    position: relative;
+    font-size: 20px;
+}
+
+.hamburger {
+    display: none;            
+    flex-direction: column;
+    justify-content: space-between;
+    height: 21px;
+    cursor: pointer;
+}
+
+.bar {
+    height: 2px;
+    width: 100%;
+    background-color: white;
+    border-radius: 10px;
+    transition: all 0.3s ease;
+}
+
+.nav-menu {
+    display: flex;
+    list-style: none;
+}
+
+.nav-item {
+    margin-left: 2rem;
+}
+
+.nav-link {
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+    color: #ffe600;
+}
